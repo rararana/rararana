@@ -1,75 +1,59 @@
-# 💜✨ Welcome to My GitHub! ✨💜  
+# 🎀✨ Welcome to My GitHub! ✨🎀  
 
-![Kuromi GIF](https://media.giphy.com/media/l3q2IxTT5G3sfhryo/giphy.gif)  
+<div align="center">
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" alt="Kuromi waving GIF" width="200">
+</div>
 
 ---
 
 ## 🖤 About Me 🖤  
-🌸 Hi! I'm **Rana**, a budding programmer learning my way through the magical world of coding!  
-🎀 I enjoy:  
-- 🌟 Building small, fun projects  
-- 💻 Learning new technologies  
-- 🎨 Embracing creativity through coding  
-
-💌 When I'm not coding, you'll find me **doodling or gaming!**  
-
-![Kuromi GIF](https://media.giphy.com/media/3o7TKpAiQ3MRwZizUc/giphy.gif)  
+Hi there! I'm **Ranashahira Reztaputri** (a.k.a. **rararana**) 👩‍💻.  
+- 🌸 I love programming, especially working on projects that combine creativity and problem-solving.  
+- 🎓 Currently exploring the world of **web development** and **data visualization**.  
+- 🌈 Learning every day to create something magical and impactful!  
 
 ---
 
-## 🎀 Skills  
+## 📂 Projects  
 
-![Languages Badge](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=ff69b4)  
-![C Badge](https://img.shields.io/badge/Code-C-blue?style=flat&logo=c&color=ff69b4)  
-![JavaScript Badge](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript&color=ff69b4)  
-(*Customize with your preferred languages and tools!*)  
+### 🏥 [MediFriends](https://github.com/rararana/16_MediFriends)  
+A web app for managing health and wellness! Features include sleep tracking, doctor visit logs, and more.  
+Tech Stack: **Next.js, React, Prisma, PostgreSQL, TailwindCSS**  
 
-🖤 **Tools & Frameworks:**  
-- ![VS Code Badge](https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat&logo=visual-studio-code&color=ff69b4)  
-- ![Git Badge](https://img.shields.io/badge/Version%20Control-Git-orange?style=flat&logo=git&color=ff69b4)  
-
-🖤 **Currently Learning:**  
-- [Your current learning goals, e.g., React, Data Structures, Algorithms]  
-
-![Learning GIF](https://media.giphy.com/media/2f2n21RmF9Tzy/giphy.gif)  
+### 🚀 [TUBES PengKom](https://github.com/rararana/TUBES-PENGKOM)  
+An interactive lift simulation system for **Computational Introduction Project**.  
 
 ---
 
-## ✨ Projects  
+## 🎯 Achievements  
+- **GitHub Streak**  
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=rararana&theme=radical&hide_border=true" alt="GitHub Streak">
+</div>
 
-Here are some of my favorite projects so far:  
-1. 🖤 **[Project Name](#)** - A fun project exploring [brief details].  
-2. 🎀 **[Project Name](#)** - A creative solution to [brief details].  
-
-(*Add as many projects as you like and include links!*)  
-
-![Kuromi Coding GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)  
-
----
-
-## 🖤 Let's Connect! 🖤  
-
-🔗 **Portfolio:** [Add a link to your website or portfolio if you have one!]  
-💌 **Email:** [Your email address]  
-✨ **Socials:**  
-- [LinkedIn](#)  
-- [Twitter](#)  
-- [Other socials]  
-
-![Social Badge](https://img.shields.io/badge/Connect-Let%27s%20Chat!-purple?style=flat&logo=linkedin&color=ff69b4)  
+- **Trophies**  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rararana&theme=radical&no-frame=true" alt="GitHub Trophies">
+</div>
 
 ---
 
-### 🖤💜💖 *"Stay sassy, stay coding, and always channel your inner Kuromi!"* 💖💜🖤  
+## 🌟 Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rararana&show_icons=true&theme=radical" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rararana&layout=compact&theme=radical" alt="Top Languages">
+</div>
 
 ---
 
-### 📌 Cute Kuromi GitHub Stats Section:  
+## 🎀 Let's Connect! 🎀  
+- 🌸 [Portfolio](#) (Coming Soon!)
+- 💌 [Email](mailto:youremail@example.com)  
+- 🖤 Follow my journey and say hello!  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername)  
+<div align="center">
+  <img src="https://media.giphy.com/media/1zlK1gupit32PB3w8o/giphy.gif" alt="Kuromi GIF" width="150">
+</div>
 
 ---
-
-![End GIF](https://media.giphy.com/media/l3q2IXrPlp5OUmgjw/giphy.gif)  
