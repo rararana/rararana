@@ -1,59 +1,74 @@
-# 🎀✨ Welcome to My GitHub! ✨🎀  
+# 🌌 Welcome to My GitHub! 🌌  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" alt="Kuromi waving GIF" width="200">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Coding GIF" width="300">
 </div>
 
 ---
 
-## 🖤 About Me 🖤  
-Hi there! I'm **Ranashahira Reztaputri** (a.k.a. **rararana**) 👩‍💻.  
-- 🌸 I love programming, especially working on projects that combine creativity and problem-solving.  
-- 🎓 Currently exploring the world of **web development** and **data visualization**.  
-- 🌈 Learning every day to create something magical and impactful!  
+## ✨ About Me  
+
+Hey there! I'm **Ranashahira Reztaputri** (*rararana* here).  
+I’m a programmer passionate about turning ideas into clean, efficient, and visually stunning projects.  
+
+- 🧠 **I love solving problems with code** and exploring creative ways to visualize data.  
+- 🌱 Currently diving into **full-stack development** and expanding my knowledge in **data visualization**.  
+- 🎯 My goal? To build impactful projects while leveling up every day.  
+
+---
+
+## 🛠️ Tech Stack  
+
+### **Languages & Frameworks**  
+- 💻 **JavaScript, Python, C**  
+- 🌐 **Next.js, React, TailwindCSS, Prisma**  
+
+### **Tools & Platforms**  
+- 🛠️ **VS Code, GitHub, Figma, PostgreSQL**  
+
+### **What I’m Learning Now**  
+- Advanced front-end animations and **data visualization**.  
+- Refining clean and scalable **back-end architectures**.  
 
 ---
 
 ## 📂 Projects  
 
-### 🏥 [MediFriends](https://github.com/rararana/16_MediFriends)  
-A web app for managing health and wellness! Features include sleep tracking, doctor visit logs, and more.  
-Tech Stack: **Next.js, React, Prisma, PostgreSQL, TailwindCSS**  
+Here are some of my featured works:  
+- **[MediFriends](https://github.com/rararana/16_MediFriends)**:  
+  A sleek web app for managing health and wellness with modern frameworks.  
+  **Tech Stack:** Next.js, React, Prisma, PostgreSQL, TailwindCSS.  
 
-### 🚀 [TUBES PengKom](https://github.com/rararana/TUBES-PENGKOM)  
-An interactive lift simulation system for **Computational Introduction Project**.  
-
----
-
-## 🎯 Achievements  
-- **GitHub Streak**  
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=rararana&theme=radical&hide_border=true" alt="GitHub Streak">
-</div>
-
-- **Trophies**  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rararana&theme=radical&no-frame=true" alt="GitHub Trophies">
-</div>
+- **[TUBES PengKom](https://github.com/rararana/TUBES-PENGKOM)**:  
+  Lift simulation for computational introduction—a step into interactive systems.  
 
 ---
 
-## 🌟 Stats  
+## 🌟 GitHub Highlights  
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rararana&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rararana&layout=compact&theme=radical" alt="Top Languages">
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=rararana&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rararana&theme=tokyonight" alt="GitHub Streak" width="48%">
+</div>  
 
 ---
 
-## 🎀 Let's Connect! 🎀  
-- 🌸 [Portfolio](#) (Coming Soon!)
-- 💌 [Email](mailto:youremail@example.com)  
-- 🖤 Follow my journey and say hello!  
+## 🏆 Achievements  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1zlK1gupit32PB3w8o/giphy.gif" alt="Kuromi GIF" width="150">
+  <img src="https://github-profile-trophy.vercel.app/?username=rararana&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies">
+</div>  
+
+---
+
+## 🎀 Connect With Me  
+
+🌐 **Portfolio:** Coming Soon!  
+💌 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+🤝 **LinkedIn / Other Links:** [Add Your Profiles Here]  
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" alt="Thank You GIF" width="200">
 </div>
 
 ---
