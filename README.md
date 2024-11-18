@@ -1,7 +1,7 @@
 # 🌌 Welcome to My GitHub! 🌌  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Coding GIF" width="300">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVxYnAxOGMwYXVvc3A2eHlzYnV4Y2hiMzZ5MHcxZ3l0a211NnJxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" alt="Coding GIF" width="300">
 </div>
 
 ---
@@ -61,11 +61,11 @@ Here are some of my featured works:
 
 ---
 
-## 🎀 Connect With Me  
+## 🎶 Connect With Me  
 
 🌐 **Portfolio:** Coming Soon!  
-💌 **Email:** [your.email@example.com](mailto:your.email@example.com)  
-🤝 **LinkedIn / Other Links:** [Add Your Profiles Here]  
+💌 **Email:** ranashahira.rez@gmail.com(mailto:ranashahira.rez@gmail.com)  
+🤝 **LinkedIn / Other Links:** https://www.linkedin.com/in/ranashahira-reztaputri-1bb0a8283/ 
 
 <div align="center">
   <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" alt="Thank You GIF" width="200">
