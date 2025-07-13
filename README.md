@@ -65,6 +65,6 @@ Here are some of my featured works:
 
 🌐 **Portfolio:** https://rararana-porto.vercel.app/ 
 💌 **Email:** ranashahira.rez@gmail.com(mailto:ranashahira.rez@gmail.com)  
-🤝 **LinkedIn / Other Links:** https://www.linkedin.com/in/ranashahira-reztaputri-1bb0a8283/ 
+🤝 **LinkedIn / Other Links:** https://www.linkedin.com/in/ranashahira-reztaputri/
 
 ---
