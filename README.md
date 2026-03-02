@@ -39,55 +39,6 @@ I’m a software engineer passionate about building real-world applications and 
 
 ---
 
-## 📂 Featured Projects  
-
-### **StuGether**  
-Study group collaboration platform where users can create communities, share materials, and interact.  
-**Tech:** TypeScript, React, TailwindCSS  
-🔗 https://github.com/rararana/StuGether
-
----
-
-### **16_MediFriends**  
-Full-stack health & wellness management application.  
-**Tech:** JavaScript, Node.js, Prisma, PostgreSQL, TailwindCSS  
-🔗 https://github.com/rararana/16_MediFriends
-
----
-
-### **WBD-Portofolio**  
-Personal portfolio website showcasing projects and skills.  
-**Tech:** HTML, CSS, JavaScript  
-🔗 https://github.com/rararana/WBD-Portofolio
-
----
-
-### **Grocademy**  
-TypeScript-based application focusing on structured data handling and UI logic.  
-**Tech:** TypeScript  
-🔗 https://github.com/rararana/Grocademy
-
----
-
-### **Farming-Scheduler**  
-Scheduling system implemented in C++ with focus on algorithmic logic.  
-**Tech:** C++  
-🔗 https://github.com/rararana/Farming-Scheduler
-
----
-
-### **Academic & System Projects**  
-- **Tubes-OS-OSugoi** — Operating system–related project in C  
-  🔗 https://github.com/rararana/Tubes-OS-OSugoi  
-
-- **Tubes2-OOP-OWCALogistics** — Object-oriented logistics system in Java  
-  🔗 https://github.com/rararana/Tubes2-OOP-OWCALogistics  
-
-- **Tubes1-OOP-PurryLeveling** — OOP-based leveling system in C++  
-  🔗 https://github.com/rararana/Tubes1-OOP-PurryLeveling
-
----
-
 ## 📊 GitHub Stats  
 
 <div align="center">
