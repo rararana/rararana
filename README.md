@@ -1,24 +1,24 @@
-# 🌌 Welcome to My GitHub 🌌  
+# 🌸 Welcome to My GitHub 🌸 
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVxYnAxOGMwYXVvc3A2eHlzYnV4Y2hiMzZ5MHcxZ3l0a211NnJxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" width="500"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhrOXdpYjg0MjlzdXFwdDFwcXR0bWhyY3ljNTRsZjhzeTZoNTlhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lnq52t8atIw3m/giphy.gif" width="700"/>
 </div>
 
 ---
 
-## ✨ About Me  
+## About Me  
 
 Hey! I’m **Ranashahira Reztaputri** (aka **rararana**).  
 I’m a software engineer passionate about building real-world applications and solving problems with clean, maintainable code.
 
-- 🧠 Strong focus on **full-stack development, algorithmic logic, and system design**  
-- 🛠️ Experienced with **TypeScript, JavaScript, Java, C/C++, Python, and web technologies**  
-- 🌱 Always improving on **software architecture**, **data visualization**, and **interactive applications**  
-- 🎯 Goal: build scalable systems while leveling up every day
+- Strong focus on **full-stack development, algorithmic logic, and system design**  
+- Experienced with **TypeScript, JavaScript, Java, C/C++, Python, and web technologies**  
+- Always improving on **software architecture**, **data visualization**, and **interactive applications**  
+- Goal: build scalable systems while leveling up every day
 
 ---
 
-## 🏷️ Tech Stack  
+## Tech Stack  
 
 ### **Languages**
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c) 
@@ -39,7 +39,7 @@ I’m a software engineer passionate about building real-world applications and 
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rararana&show_icons=true&theme=tokyonight" width="48%"/>
@@ -48,8 +48,8 @@ I’m a software engineer passionate about building real-world applications and 
 
 ---
 
-## 🎯 Let’s Connect  
+## Let’s Connect  
 
-🌐 **Portfolio:** https://rararana-porto.vercel.app  
-📧 **Email:** ranashahira.rez@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/ranashahira-reztaputri/
+**Portfolio:** https://rararana-porto.vercel.app  
+**Email:** ranashahira.rez@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/ranashahira-reztaputri/
