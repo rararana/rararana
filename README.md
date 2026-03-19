@@ -1,4 +1,6 @@
-<h1 align="center"> 🤍 Welcome to My GitHub 🤍 </h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&duration=4000&pause=1500&color=E6E6FA&center=true&vCenter=true&width=600&lines=🤍+rararana's+github+🤍" />
+</h1>
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhrOXdpYjg0MjlzdXFwdDFwcXR0bWhyY3ljNTRsZjhzeTZoNTlhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lnq52t8atIw3m/giphy.gif" width="670"/>
