@@ -44,11 +44,11 @@ I’m a software engineer passionate about building real-world applications and 
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=rararana&show_icons=true&theme=catppuccin_mocha" 
-    height="180"
+    height="150"
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=rararana&theme=catppuccin_mocha" 
-    height="180"
+    height="150"
   />
 </div>
 
