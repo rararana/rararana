@@ -58,6 +58,6 @@ I’m a software engineer passionate about building real-world applications and 
 
 ## Let’s Connect  
 
-**Portfolio:** https://rararana-porto.vercel.app  ](https://rararana-portofolio.vercel.app/
+**Portfolio:** https://rararana-portofolio.vercel.app <br />
 **Email:** ranashahira.rez@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/ranashahira-reztaputri/
